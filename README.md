@@ -12,6 +12,9 @@ write down all commands provided in the command and commit it
 for any possible ambugities use your class
 [Email](thread.ali2@gmail.com)
 
+## Deadline :
+
+wednesday 11:59 PM
 
 ## A quick guide for dummies :
 
